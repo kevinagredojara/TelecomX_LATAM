@@ -1,4 +1,4 @@
-# Telecom X — Análisis de Evasión de Clientes (Churn)
+# Telecom X — Análisis de Evasión de Clientes
 
 ## Objetivo
 Analizar la evasión de clientes (Churn) para identificar patrones asociados a variables categóricas y numéricas, apoyando estrategias de retención.
