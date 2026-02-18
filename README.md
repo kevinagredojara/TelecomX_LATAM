@@ -81,9 +81,3 @@ El análisis evidencia que la evasión de clientes está fuertemente asociada a 
 
 ---
 
-## 📬 Autor
-
-Proyecto desarrollado como parte de un desafío de análisis de datos enfocado en **Customer Churn**.
-
----
-
